@@ -27,7 +27,7 @@ Tech Stack:
 - CSS
 - JavaScript
 
-🔗 Repository: https://github.com/USERNAME/mini-twitter
+🔗 Repository: https://github.com/Kamola-Begimkulova/mini-twitter
 
 
  Wedding Platform (Backend)
@@ -44,7 +44,7 @@ Tech Stack:
 - Express.js
 - Database (MongoDB / SQL)
 
-🔗 Repository: https://github.com/USERNAME/Wedding
+🔗 Repository: https://github.com/Kamola-Begimkulova/Wedding
 
 🎯 Goals
 - Improve frontend development skills
@@ -52,7 +52,7 @@ Tech Stack:
 - Build real-world projects and grow as a developer
 
 Contact
-- GitHub: https://github.com/USERNAME
+- GitHub: https://github.com/Kamola-Begimkulova
 
 <!--
 **Kamola-Begimkulova/Kamola-Begimkulova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
